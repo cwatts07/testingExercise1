@@ -1,4 +1,4 @@
-# jasmine-seed
+# jest-seed
 
 A simple seed TDD project set up with Jest. There are no other bells or whistles.
 
